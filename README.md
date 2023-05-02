@@ -14,6 +14,8 @@ React Demo User Search App
 
 A little app searches for fake users and gets their profiles.
 
+Free fake user profile list [API](https://randomuser.me/)
+
 ## Meta
 
  Nijat Gurbanov
