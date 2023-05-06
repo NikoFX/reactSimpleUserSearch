@@ -46,7 +46,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Contributing
 
-1. Fork it (<https://github.com/NikoFX/react-pizza-app/fork>)
+1. Fork it
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
